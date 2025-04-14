@@ -22,7 +22,7 @@ const HomeScreen = () => {
 			<ButtonCardInside
 				title="Be A Part!"
 				description="Help us make a difference in lives!"
-				buttonText="join us"
+				buttonText="join Us!"
 				image={require("@/assets/images/shopkeeper.jpg")}
 			/>
 			<BottomIcon/>
